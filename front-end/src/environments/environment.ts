@@ -5,8 +5,8 @@
 
 export const environment = {
   production: false,
-  resourceApi: "http://3.23.113.83/resources-api",
-  inventoryApi: "http://3.23.113.83/inventory-api",
-  clientApi: "http://3.23.113.83/clients-api",
-  rentingApi: "http://3.23.113.83/renting-api"
+  resourceApi: "http://18.189.193.228/resources-api",
+  inventoryApi: "http://18.189.193.228/inventory-api",
+  clientApi: "http://18.189.193.228/clients-api",
+  rentingApi: "http://18.189.193.228/renting-api"
 };
